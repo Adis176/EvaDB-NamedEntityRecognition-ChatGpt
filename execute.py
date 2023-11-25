@@ -33,7 +33,7 @@ import tiktoken
 
 
 total_cost = 0
-cost_per_token = 0.004
+cost_per_token = 0.000004
 
 
 df = pd.read_csv('test.csv')
