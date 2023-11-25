@@ -1,0 +1,78 @@
+,f1_score,cost,output
+0,0.285714286,0.000285714,"Output - '{Location: [Japan, China], Organization: [], Person: [], Miscellaneous: [SOCCER]}'"
+0,0,0,"Based on the given example input, the extracted named entities can be classified into the following categories:
+
+Location: None
+Organization: Kurdistan Workers Party, PKK
+Person: None
+Miscellaneous: Kurdish
+
+Therefore, the output would be:
+
+{
+    ""Location"": [],
+    ""Organization"": [""Kurdistan Workers Party"", ""PKK""],
+    ""Person"": [],
+    ""Miscellaneous"": [""Kurdish""]
+}"
+0,0.571428571,0.000571429,"Output - '{Location: [AL-AIN, United Arab Emirates], Organization: [], Person: [], Miscellaneous: []}'"
+0,0.5,0.0005,"Output - '{Location: [Japan, Syria], Organization: [Asian Cup], Person: [], Miscellaneous: []}'"
+0,0.571428571,0.000571429,"Output - '{Location: [China, Uzbekistan], Organization: [], Person: [], Miscellaneous: []}'"
+0,0.25,0.00025,"Output - '{Location: [], Organization: [], Person: [Igor Shkvyrin], Miscellaneous: []}'"
+0,1,0.001,"{Location: [], Organization: [], Person: [Oleg Shatskiku], Miscellaneous: []}"
+0,1,0.001,"Output - '{Location: [Asian Cup], Organization: [former Soviet republic], Person: [], Miscellaneous: []}'"
+0,0.333333333,0.000333333,"Output - '{Location: [Uzbekistan], Organization: [], Person: [], Miscellaneous: []}'"
+0,0.571428571,0.000571429,"Output - '{Location: [Japan, Syria], Organization: [], Person: [], Miscellaneous: []}'"
+0,0.6,0.0006,"Output - '{Location: [], Organization: [], Person: [Takuya Takagi, Hiroshige Yanagimoto, Salem Bitar], Miscellaneous: []}'"
+0,1,0.001,"Output - '{Location: [Syria], Organization: [], Person: [], Miscellaneous: []}'"
+0,0.285714286,0.000285714,"Output - '{Location: [], Organization: [], Person: [Defender Hassan Abbas, Bitar], Miscellaneous: []}'"
+0,0.666666667,0.000666667,"Output - '{Location: [Syria], Organization: [], Person: [Nader Jokhadar], Miscellaneous: []}'"
+0,0.766666667,0.000766667,"Output - '{Location: [Syrian], Organization: [], Person: [Japan], Miscellaneous: []}'"
+0,0.333333333,0.000333333,"Output - '{Location: [southeast], Organization: [Kurdistan Workers Party, PKK], Person: [], Miscellaneous: [Kurdish]}'"
+0,0.285714286,0.000285714,"Output - '{Location: [], Organization: [], Person: [Shu Kamo], Miscellaneous: []}'"
+0,1,0.001,"Output - '{Location: [], Organization: [], Person: [Syrians], Miscellaneous: []}'"
+0,0,0,"Based on the given example, the extracted named entities can be classified as follows:
+
+Location: None
+Organization: Kurdistan Workers Party, PKK
+Person: None
+Miscellaneous: Kurdish"
+0,0.571428571,0.000571429,"Output - '{Location: [Japan], Organization: [FIFA], Person: [], Miscellaneous: []}'"
+0,0.727272727,0.000727273,"Output - '{Location: [UAE, Kuwait, South Korea, Indonesia], Organization: [], Person: [], Miscellaneous: []}'"
+0,1,0.001,"Output - '{Location: [], Organization: [], Person: [], Miscellaneous: []}'"
+0,0,0,"Output - '{Location: [], Organization: [], Person: [], Miscellaneous: []}'"
+0,1,0.001,"Output - '{Location: [Rome], Organization: [], Person: [], Miscellaneous: []}'"
+0,0.5,0.0005,"Output - '{Location: [Italy], Organization: [], Person: [], Miscellaneous: []}'"
+0,0.333333333,0.000333333,"Output - '{Location: [Murrayfield], Organization: [], Person: [], Miscellaneous: []}'"
+0,0.444444444,0.000444444,"Output - '{Location: [], Organization: [], Person: [Cuttitta, George Coste], Miscellaneous: []}'"
+0,0,0,"Output - '{Location: [southeast], Organization: [Kurdistan Workers Party, PKK], Person: [], Miscellaneous: [Kurdish]}'"
+0,0.666666667,0.000666667,"Output - '{Location: [Italy, England], Organization: [], Person: [Cuttitta], Miscellaneous: []}'"
+0,0.4,0.0004,"Output - '{Location: [], Organization: [], Person: [Coste], Miscellaneous: []}'"
+0,0.5,0.0005,"Output - '{Location: [], Organization: [], Person: [], Miscellaneous: [World Cup]}'"
+0,1,0.001,"Output - '{Location: [], Organization: [], Person: [], Miscellaneous: []}'"
+0,1,0.001,"Output - '{Location: [], Organization: [], Person: [], Miscellaneous: []}'"
+0,0,0,"Output - '{Location: [southeast], Organization: [Kurdistan Workers Party, PKK], Person: [], Miscellaneous: [Kurdish]}'"
+0,0.571428571,0.000571429,"Output - '{Location: [Japan, Syria], Organization: [], Person: [], Miscellaneous: []}'"
+0,0.571428571,0.000571429,"Output - '{Location: [AL-AIN, United Arab Emirates], Organization: [], Person: [], Miscellaneous: []}'"
+0,0,0,"Output - '{Location: [], Organization: [Japan, Syria, Asian Cup], Person: [], Miscellaneous: []}'"
+0,0.571428571,0.000571429,"Output - '{Location: [], Organization: [], Person: [Takuya Takagi, Salem Bitar], Miscellaneous: []}'"
+0,0,0,"Output - '{Location: [], Organization: [], Person: [], Miscellaneous: []}'"
+0,0.285714286,0.000285714,"Output - '{Location: [], Organization: [], Person: [Defender Hassan Abbas, Bitar], Miscellaneous: []}'"
+0,0.4,0.0004,"Output - '{Location: [Syria], Organization: [], Person: [], Miscellaneous: []}'"
+0,0.666666667,0.000666667,"Output - '{Location: [], Organization: [], Person: [Nader Jokhadar, Ammar Awad, Kenichi Shimokawa], Miscellaneous: []}'"
+0,0.5,0.0005,"Output - '{Location: [Japan, Syrian], Organization: [], Person: [], Miscellaneous: []}'"
+0,0.666666667,0.000666667,"Output - '{Location: [], Organization: [], Person: [Bitar, Kazuyoshi Miura, Takagi], Miscellaneous: []}'"
+0,0.571428571,0.000571429,"Output - '{Location: [], Organization: [], Person: [Bitar, Miura], Miscellaneous: []}'"
+0,0.5,0.0005,"Output - '{Location: [], Organization: [], Person: [Bitar, Naoki Soma], Miscellaneous: []}'"
+0,0.933333333,0.000933333,"Output - '{Location: [Japan], Organization: [], Person: [Kenichi Shimokawa, Hiroshige Yanagimoto, Naoki Soma, Masami Ihara, Norio Omura, Motohiro Yamaguchi, Masakiyo Maezono, Yasuto Honda, Takuya Takagi, Hiroshi Nanami, Kazuyoshi Miura, Hiroaki Morishima, Masayuki Okano], Miscellaneous: []}'"
+0,0,0,"{
+    ""Location"": [""Syria""],
+    ""Organization"": [],
+    ""Person"": [""Salem Bitar"", ""Bachar Srour"", ""Hassan Abbas"", ""Tarek Jabban"", ""Ammar Awad"", ""Louay Taleb"", ""Nihad al-Boushi"", ""Mohammed Afash"", ""Ali Dib"", ""Abdul Latif Helou"", ""Ammar Rihawiy"", ""Khaled Zaher"", ""Nader Jokhadar""],
+    ""Miscellaneous"": []
+}"
+0,0,0,"Output - '{Location: [southeast], Organization: [Kurdistan Workers Party, PKK], Person: [], Miscellaneous: [Kurdish]}'"
+0,0.571428571,0.000571429,"Output - '{Location: [TIGNES, France], Organization: [], Person: [], Miscellaneous: []}'"
+,,,
+,,,
+,0.499481962,,

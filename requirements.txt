@@ -1,0 +1,9 @@
+evadb
+eva --decord
+openai==0.27.0
+os
+pandas
+time 
+json
+re
+tiktoken
